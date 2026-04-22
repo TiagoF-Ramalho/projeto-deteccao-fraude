@@ -222,6 +222,6 @@ These results suggest that the model identified strong fraud-related patterns in
 
 ```bash
 .
-├── Projeto_Final.ipynb
+├── fraude_cartao.ipynb
 ├── README.md
 └── requirements.txt
